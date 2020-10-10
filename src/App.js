@@ -2,12 +2,15 @@ import React from "react";
 
 import "./App.css";
 
-function App() {
+import NavBar from "./components/navBar/navBar";
+
+const App = () => {
   return (
-    <div className="App">
+    <>
+      <NavBar />
       <h4>Hi</h4>
-    </div>
+    </>
   );
-}
+};
 
 export default App;
