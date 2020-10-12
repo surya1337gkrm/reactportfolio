@@ -10,6 +10,7 @@ import About from "./pages/about/about";
 import Fade from "react-reveal";
 import {Parallax} from "react-parallax";
 import Container from "react-bootstrap/Container";
+import Skills from "./pages/skills/skills";
 
 const App = () => {
   return (
@@ -32,6 +33,11 @@ const App = () => {
             </Container>
           </div>
         </Parallax>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Skills />
+        </Container>
       </div>
     </div>
   );
