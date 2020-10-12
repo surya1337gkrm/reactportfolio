@@ -8,9 +8,11 @@ import TitleMessage from "./components/titleMessage/titleMessage";
 import About from "./pages/about/about";
 
 import Fade from "react-reveal";
+import Slide from "react-reveal/Slide";
 import {Parallax} from "react-parallax";
 import Container from "react-bootstrap/Container";
 import Skills from "./pages/skills/skills";
+import Experience from "./pages/experience/experience";
 
 const App = () => {
   return (
@@ -36,7 +38,17 @@ const App = () => {
       </div>
       <div>
         <Container className="container-box rounded">
-          <Skills />
+          <Slide duration={500}>
+            <Skills />
+          </Slide>
+        </Container>
+      </div>
+      <hr />
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <Experience />
+          </Fade>
         </Container>
       </div>
     </div>
