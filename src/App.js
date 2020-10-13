@@ -13,6 +13,7 @@ import {Parallax} from "react-parallax";
 import Container from "react-bootstrap/Container";
 import Skills from "./pages/skills/skills";
 import Experience from "./pages/experience/experience";
+import Projects from "./components/projects/projects";
 
 const App = () => {
   return (
@@ -48,6 +49,13 @@ const App = () => {
         <Container className="container-box rounded">
           <Fade duration={500}>
             <Experience />
+          </Fade>
+        </Container>
+      </div><hr/>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <Projects />
           </Fade>
         </Container>
       </div>
