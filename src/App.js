@@ -14,6 +14,7 @@ import Container from "react-bootstrap/Container";
 import Skills from "./pages/skills/skills";
 import Experience from "./pages/experience/experience";
 import Projects from "./components/projects/projects";
+import Contact from "./pages/Contact/contact";
 
 const App = () => {
   return (
@@ -51,11 +52,19 @@ const App = () => {
             <Experience />
           </Fade>
         </Container>
-      </div><hr/>
+      </div>
+      <hr />
       <div>
         <Container className="container-box rounded">
           <Fade duration={500}>
             <Projects />
+          </Fade>
+        </Container>
+      </div>
+      <div>
+        <Container className="container-box rounded">
+          <Fade duration={500}>
+            <Contact />
           </Fade>
         </Container>
       </div>
