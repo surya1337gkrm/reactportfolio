@@ -49,12 +49,10 @@ class Experience extends Component {
                       <br />
                       <strong>Description:</strong>{" "}
                       <strong>Developed & enhanced multiple features</strong>{" "}
-                      with full customizability
-                      <br /> options across web application. Debugging existing
-                      code to solve problems
-                      <br /> and building high- performance presentation layers,
-                      <br />
-                      building reusable components using JavaScript frameworks.
+                      with full customizability options across web application.
+                      Debugging existing code to solve problems and building
+                      high- performance presentation layers, building reusable
+                      components using JavaScript frameworks.
                       <br />
                       <strong>Technology:</strong> React, Redux and Javascript
                       <br />
