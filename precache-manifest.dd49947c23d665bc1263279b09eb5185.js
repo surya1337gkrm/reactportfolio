@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc031d0678c535efea4d7d1b7fccda03",
+    "revision": "588ff167060703a05fb948d25956c428",
     "url": "/suryaportfolio/index.html"
   },
   {
-    "revision": "d816649919d7ddf988e7",
-    "url": "/suryaportfolio/static/css/main.f34d6a23.chunk.css"
+    "revision": "7eb84611e36bea9a6c32",
+    "url": "/suryaportfolio/static/css/main.8118ada4.chunk.css"
   },
   {
-    "revision": "017b7e98f8a2d282752d",
-    "url": "/suryaportfolio/static/js/2.6f8d3e61.chunk.js"
+    "revision": "da9c77f4d56a33177fdc",
+    "url": "/suryaportfolio/static/js/2.17c55833.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/suryaportfolio/static/js/2.6f8d3e61.chunk.js.LICENSE.txt"
+    "url": "/suryaportfolio/static/js/2.17c55833.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d816649919d7ddf988e7",
-    "url": "/suryaportfolio/static/js/main.72a6fc74.chunk.js"
+    "revision": "7eb84611e36bea9a6c32",
+    "url": "/suryaportfolio/static/js/main.587b1d9d.chunk.js"
   },
   {
-    "revision": "e1aad6258dcd43827164",
-    "url": "/suryaportfolio/static/js/runtime-main.63b18399.js"
+    "revision": "005d6336d19fc3c22798",
+    "url": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js"
   },
   {
     "revision": "115fbe657e3511d6f66dbb378211b768",
@@ -96,12 +96,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suryaportfolio/static/media/mongodb.b30ceef7.svg"
   },
   {
-    "revision": "dd2a5a358ea682bed45bf98bc842b3ed",
-    "url": "/suryaportfolio/static/media/mysql.dd2a5a35.svg"
+    "revision": "dce61c4503627bbc1bee2e0b23b8dd4c",
+    "url": "/suryaportfolio/static/media/mysql.dce61c45.svg"
   },
   {
-    "revision": "b6fe4ac3655f672309dd0186bf26f11e",
-    "url": "/suryaportfolio/static/media/netlify.b6fe4ac3.svg"
+    "revision": "265816240405ecfa9c2a96d7a934917d",
+    "url": "/suryaportfolio/static/media/netlify.26581624.svg"
   },
   {
     "revision": "a123152868245dee71c441124a98ac3e",
@@ -116,8 +116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suryaportfolio/static/media/python.146716bd.svg"
   },
   {
-    "revision": "83fe61b05935f090b671b08aeb77b63d",
-    "url": "/suryaportfolio/static/media/react-bootstrap.83fe61b0.svg"
+    "revision": "ef194ddf5faf63cb6cc580a4535be695",
+    "url": "/suryaportfolio/static/media/react-bootstrap.ef194ddf.svg"
   },
   {
     "revision": "024196716802e272adb3cbefb81fd557",
@@ -144,7 +144,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suryaportfolio/static/media/typescript.3de182d2.svg"
   },
   {
-    "revision": "c52f9c2a97b51124d1bb04b8c6d061dc",
-    "url": "/suryaportfolio/static/media/vercel.c52f9c2a.svg"
+    "revision": "8941298ef45e3cee686d3d6b0f94fd1e",
+    "url": "/suryaportfolio/static/media/vercel.8941298e.svg"
   }
 ]);
