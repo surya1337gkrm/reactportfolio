@@ -6,7 +6,9 @@ import Logo from "../../assets/icons/logo.png";
 import "./navBar.css";
 class NavBar extends Component {
   state = {};
+  
   render() {
+    console.log(window.location)
     return (
       <>
         <Navbar
