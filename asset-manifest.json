@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/suryaportfolio/static/css/main.8118ada4.chunk.css",
-    "main.js": "/suryaportfolio/static/js/main.587b1d9d.chunk.js",
-    "main.js.map": "/suryaportfolio/static/js/main.587b1d9d.chunk.js.map",
+    "main.js": "/suryaportfolio/static/js/main.9b749547.chunk.js",
+    "main.js.map": "/suryaportfolio/static/js/main.9b749547.chunk.js.map",
     "runtime-main.js": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js",
     "runtime-main.js.map": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js.map",
-    "static/js/2.17c55833.chunk.js": "/suryaportfolio/static/js/2.17c55833.chunk.js",
-    "static/js/2.17c55833.chunk.js.map": "/suryaportfolio/static/js/2.17c55833.chunk.js.map",
+    "static/js/2.7416637c.chunk.js": "/suryaportfolio/static/js/2.7416637c.chunk.js",
+    "static/js/2.7416637c.chunk.js.map": "/suryaportfolio/static/js/2.7416637c.chunk.js.map",
     "index.html": "/suryaportfolio/index.html",
-    "precache-manifest.dd49947c23d665bc1263279b09eb5185.js": "/suryaportfolio/precache-manifest.dd49947c23d665bc1263279b09eb5185.js",
+    "precache-manifest.aac7704b4cbe314bd92cbca393e1fb6f.js": "/suryaportfolio/precache-manifest.aac7704b4cbe314bd92cbca393e1fb6f.js",
     "service-worker.js": "/suryaportfolio/service-worker.js",
     "static/css/main.8118ada4.chunk.css.map": "/suryaportfolio/static/css/main.8118ada4.chunk.css.map",
-    "static/js/2.17c55833.chunk.js.LICENSE.txt": "/suryaportfolio/static/js/2.17c55833.chunk.js.LICENSE.txt",
+    "static/js/2.7416637c.chunk.js.LICENSE.txt": "/suryaportfolio/static/js/2.7416637c.chunk.js.LICENSE.txt",
     "static/media/L_MovieDB.png": "/suryaportfolio/static/media/L_MovieDB.115fbe65.png",
     "static/media/L_Netflix.png": "/suryaportfolio/static/media/L_Netflix.0d39b400.png",
     "static/media/L_ReactBreakingBad.png": "/suryaportfolio/static/media/L_ReactBreakingBad.80cd295f.png",
+    "static/media/L_Tredence.png": "/suryaportfolio/static/media/L_Tredence.d4b50c41.png",
     "static/media/L_Youtube.png": "/suryaportfolio/static/media/L_Youtube.4413ba3c.png",
     "static/media/background.webp": "/suryaportfolio/static/media/background.bf989778.webp",
     "static/media/contact.css": "/suryaportfolio/static/media/background.e95d0563.webp",
@@ -46,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9d2f1f53.js",
-    "static/js/2.17c55833.chunk.js",
+    "static/js/2.7416637c.chunk.js",
     "static/css/main.8118ada4.chunk.css",
-    "static/js/main.587b1d9d.chunk.js"
+    "static/js/main.9b749547.chunk.js"
   ]
 }
