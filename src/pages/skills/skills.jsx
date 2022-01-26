@@ -30,7 +30,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.frontend.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}
@@ -63,7 +63,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.backend.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}
@@ -94,7 +94,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.hostingPlatforms.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}
@@ -127,7 +127,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.programmingLanguages.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}
@@ -158,7 +158,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.databases.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}
@@ -189,7 +189,7 @@ class Skills extends Component {
                   <Card.Text className="card-text d-flex justify-content-start flex-column">
                     {skills.versionControl.map((skill, index) => {
                       return (
-                        <span className="p-2" key={`${skill.skillname}$index`}>
+                        <span className="p-2" key={`${skill.skillname}${index}`}>
                           <a
                             className="text-dark text-decoration-none"
                             href={skill.link}

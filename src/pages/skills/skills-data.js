@@ -8,7 +8,6 @@ import L_REACT_BOOTSTRAP from "../../assets/img/skills/react-bootstrap.svg";
 import L_MATERIALUI from "../../assets/img/skills/material-ui-1.svg";
 import L_NODE_JS from "../../assets/img/skills/nodejs.svg";
 import L_EXPRESS from "../../assets/img/skills/express.svg";
-import L_DJANGO from "../../assets/img/skills/django.svg";
 import L_MONGODB from "../../assets/img/skills/mongodb.svg";
 import L_MYSQL from "../../assets/img/skills/mysql.svg";
 import L_GIT from "../../assets/img/skills/git-icon.svg";

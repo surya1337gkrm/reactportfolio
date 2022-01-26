@@ -8,7 +8,7 @@ class NavBar extends Component {
   state = {};
   
   render() {
-    console.log(window.location)
+    
     return (
       <>
         <Navbar
