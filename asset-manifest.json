@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/suryaportfolio/static/css/main.13fd1c35.chunk.css",
-    "main.js": "/suryaportfolio/static/js/main.9b749547.chunk.js",
-    "main.js.map": "/suryaportfolio/static/js/main.9b749547.chunk.js.map",
+    "main.css": "/suryaportfolio/static/css/main.ff2884e3.chunk.css",
+    "main.js": "/suryaportfolio/static/js/main.1d66ba92.chunk.js",
+    "main.js.map": "/suryaportfolio/static/js/main.1d66ba92.chunk.js.map",
     "runtime-main.js": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js",
     "runtime-main.js.map": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js.map",
-    "static/js/2.7416637c.chunk.js": "/suryaportfolio/static/js/2.7416637c.chunk.js",
-    "static/js/2.7416637c.chunk.js.map": "/suryaportfolio/static/js/2.7416637c.chunk.js.map",
+    "static/js/2.93ed9960.chunk.js": "/suryaportfolio/static/js/2.93ed9960.chunk.js",
+    "static/js/2.93ed9960.chunk.js.map": "/suryaportfolio/static/js/2.93ed9960.chunk.js.map",
     "index.html": "/suryaportfolio/index.html",
-    "precache-manifest.f71e61356404be788cbd653dbae12e8f.js": "/suryaportfolio/precache-manifest.f71e61356404be788cbd653dbae12e8f.js",
+    "precache-manifest.fee7db42d28e56e614f4523549ffb504.js": "/suryaportfolio/precache-manifest.fee7db42d28e56e614f4523549ffb504.js",
     "service-worker.js": "/suryaportfolio/service-worker.js",
-    "static/css/main.13fd1c35.chunk.css.map": "/suryaportfolio/static/css/main.13fd1c35.chunk.css.map",
-    "static/js/2.7416637c.chunk.js.LICENSE.txt": "/suryaportfolio/static/js/2.7416637c.chunk.js.LICENSE.txt",
+    "static/css/main.ff2884e3.chunk.css.map": "/suryaportfolio/static/css/main.ff2884e3.chunk.css.map",
+    "static/js/2.93ed9960.chunk.js.LICENSE.txt": "/suryaportfolio/static/js/2.93ed9960.chunk.js.LICENSE.txt",
     "static/media/L_MovieDB.png": "/suryaportfolio/static/media/L_MovieDB.115fbe65.png",
     "static/media/L_Netflix.png": "/suryaportfolio/static/media/L_Netflix.0d39b400.png",
     "static/media/L_ReactBreakingBad.png": "/suryaportfolio/static/media/L_ReactBreakingBad.80cd295f.png",
@@ -22,7 +22,6 @@
     "static/media/bootstrap-4.svg": "/suryaportfolio/static/media/bootstrap-4.ffded238.svg",
     "static/media/cognizant.svg": "/suryaportfolio/static/media/cognizant.d42aa337.svg",
     "static/media/css3.svg": "/suryaportfolio/static/media/css3.3707da3c.svg",
-    "static/media/django.svg": "/suryaportfolio/static/media/django.bcf22073.svg",
     "static/media/express.svg": "/suryaportfolio/static/media/express.c6bab64b.svg",
     "static/media/git-icon.svg": "/suryaportfolio/static/media/git-icon.1190a19c.svg",
     "static/media/github.svg": "/suryaportfolio/static/media/github.0ff1a6f0.svg",
@@ -47,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9d2f1f53.js",
-    "static/js/2.7416637c.chunk.js",
-    "static/css/main.13fd1c35.chunk.css",
-    "static/js/main.9b749547.chunk.js"
+    "static/js/2.93ed9960.chunk.js",
+    "static/css/main.ff2884e3.chunk.css",
+    "static/js/main.1d66ba92.chunk.js"
   ]
 }
