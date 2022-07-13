@@ -63,7 +63,7 @@ class About extends Component {
                     </div>
                     <div>
                       <a
-                        href='https://drive.google.com/file/d/1-Tk7dQMHJQDupNv1S3xkJbeACw1WuZbf/view?usp=sharing'
+                        href='https://drive.google.com/file/d/1UKgxr9dbQkhqrBc8XJFSgwOro468u0R2/view?usp=sharing'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <Button className='m-2' variant='outline-success'>
