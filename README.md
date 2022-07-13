@@ -1,1 +1,1 @@
-Live Version [Surya Portfolio](https://github.com/surya1337gkrm/suryaportfolio).
+Live Version [Surya Portfolio](https://surya1337gkrm.github.io/suryaportfolio/).
