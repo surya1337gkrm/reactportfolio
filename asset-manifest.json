@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/suryaportfolio/static/css/main.ff2884e3.chunk.css",
-    "main.js": "/suryaportfolio/static/js/main.1d66ba92.chunk.js",
-    "main.js.map": "/suryaportfolio/static/js/main.1d66ba92.chunk.js.map",
+    "main.js": "/suryaportfolio/static/js/main.0c2ab443.chunk.js",
+    "main.js.map": "/suryaportfolio/static/js/main.0c2ab443.chunk.js.map",
     "runtime-main.js": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js",
     "runtime-main.js.map": "/suryaportfolio/static/js/runtime-main.9d2f1f53.js.map",
     "static/js/2.93ed9960.chunk.js": "/suryaportfolio/static/js/2.93ed9960.chunk.js",
     "static/js/2.93ed9960.chunk.js.map": "/suryaportfolio/static/js/2.93ed9960.chunk.js.map",
     "index.html": "/suryaportfolio/index.html",
-    "precache-manifest.fee7db42d28e56e614f4523549ffb504.js": "/suryaportfolio/precache-manifest.fee7db42d28e56e614f4523549ffb504.js",
+    "precache-manifest.17dea1fc9886c14fe8b76a6a5beab874.js": "/suryaportfolio/precache-manifest.17dea1fc9886c14fe8b76a6a5beab874.js",
     "service-worker.js": "/suryaportfolio/service-worker.js",
     "static/css/main.ff2884e3.chunk.css.map": "/suryaportfolio/static/css/main.ff2884e3.chunk.css.map",
     "static/js/2.93ed9960.chunk.js.LICENSE.txt": "/suryaportfolio/static/js/2.93ed9960.chunk.js.LICENSE.txt",
@@ -33,7 +33,7 @@
     "static/media/mysql.svg": "/suryaportfolio/static/media/mysql.dce61c45.svg",
     "static/media/netlify.svg": "/suryaportfolio/static/media/netlify.26581624.svg",
     "static/media/nodejs.svg": "/suryaportfolio/static/media/nodejs.a1231528.svg",
-    "static/media/profile.jpg": "/suryaportfolio/static/media/profile.4ccfa959.jpg",
+    "static/media/profile.jpg": "/suryaportfolio/static/media/profile.7914db86.jpg",
     "static/media/python.svg": "/suryaportfolio/static/media/python.146716bd.svg",
     "static/media/react-bootstrap.svg": "/suryaportfolio/static/media/react-bootstrap.ef194ddf.svg",
     "static/media/react-router.svg": "/suryaportfolio/static/media/react-router.02419671.svg",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.9d2f1f53.js",
     "static/js/2.93ed9960.chunk.js",
     "static/css/main.ff2884e3.chunk.css",
-    "static/js/main.1d66ba92.chunk.js"
+    "static/js/main.0c2ab443.chunk.js"
   ]
 }
