@@ -39,11 +39,14 @@ class About extends Component {
                   </p>
                   <br />
                   <p>
-                    A Computer Science Enthusiast and a FrontEnd developer with
-                    strong UI developing skills having 2+ years of experience in
-                    building high- performance presentation layers, building
-                    reusable components using{' '}
-                    <strong>JavaScript frameworks</strong>.
+                    I am a skilled full-stack developer with five years of experience 
+                    specializing in building dynamic and responsive web applications. 
+                    Proficient in both front-end and back-end development, 
+                    I have a strong command of React and Vue for crafting intuitive user 
+                    interfaces, alongside several backend frameworks and libraries for 
+                    developing robust server-side applications. My expertise lies in 
+                    creating seamless, high-performing applications that enhance user 
+                    experience and meet business needs.
                   </p>
                   <p>
                     I love learning about new technologies, what problems are
@@ -63,7 +66,7 @@ class About extends Component {
                     </div>
                     <div>
                       <a
-                        href='https://drive.google.com/file/d/1-tM7df4ToVGmwr3I-umlphc3W-ZlIXdA/view?usp=sharing'
+                        href='https://drive.google.com/file/d/19-7yPZOsyKMvkkxPJFeu5VtxbxT_Qr3P/view?usp=sharing'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <Button className='m-2' variant='outline-success'>
