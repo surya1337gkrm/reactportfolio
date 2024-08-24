@@ -75,6 +75,24 @@ export const skills = {
       imgSrc: L_MATERIALUI,
       skillName: "Material-UI",
     },
+    {
+      link: "https://vuejs.org/",
+      imgAltText: "Vue.js",
+      imgSrc: L_MATERIALUI,
+      skillName: "Vue.js",
+    },
+    {
+      link: "https://nuxt.com/",
+      imgAltText: "Nuxt.js",
+      imgSrc: L_MATERIALUI,
+      skillName: "Nuxt.js",
+    },
+    {
+      link: "https://tailwindcss.com/",
+      imgAltText: "Tailwind CSS",
+      imgSrc: L_MATERIALUI,
+      skillName: "Tailwind CSS",
+    },
   ],
 
   backend: [
@@ -90,9 +108,21 @@ export const skills = {
       imgSrc: L_EXPRESS,
       skillName: "Express",
     },
+    {
+      link: "https://flask.palletsprojects.com/en/3.0.x/",
+      imgAltText: "Flask",
+      imgSrc: L_EXPRESS,
+      skillName: "Flask",
+    },
     
   ],
   hostingPlatforms: [
+    {
+      link: "https://aws.amazon.com/",
+      imgAltText: "AWS",
+      imgSrc: L_VERCEL,
+      skillName: "AWS",
+    },
     {
       link: "https://vercel.com/login?next=%2Fdashboard",
       imgAltText: "Vercel",
@@ -131,8 +161,20 @@ export const skills = {
       imgSrc: L_PYTHON,
       skillName: "Python",
     },
+    {
+      link: "https://go.dev/",
+      imgAltText: "Go",
+      imgSrc: L_PYTHON,
+      skillName: "Golang",
+    }
   ],
   databases: [
+    {
+      link: "https://www.postgresql.org/",
+      imgAltText: "PostgreSQL",
+      imgSrc: L_MYSQL,
+      skillName: "PostgreSQL",
+    },
     {
       link: "https://www.mongodb.com/",
       imgAltText: "MongoDB",
