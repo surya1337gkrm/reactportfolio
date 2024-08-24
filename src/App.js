@@ -56,13 +56,13 @@ const App = () => {
           </Container>
         </div>
         <hr />
-        <div>
-          <Container className='container-box rounded'>
-            <Fade duration={500}>
-              <Projects />
-            </Fade>
-          </Container>
-        </div>
+        // <div>
+        //   <Container className='container-box rounded'>
+        //     <Fade duration={500}>
+        //       <Projects />
+        //     </Fade>
+        //   </Container>
+        // </div>
         <div>
           <Container className='container-box rounded'>
             <Fade duration={500}>
